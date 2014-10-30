@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3764332684">
+    <data-source source="LOCAL" name="MySQL - @mysqlsrv55.spb.labs.intellij.net" uuid="cf93b011-b521-4cf1-a0ed-4d6ad0e51c8a">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqlsrv55.spb.labs.intellij.net:3306</jdbc-url>
+      <user-name>kotlin-test-user</user-name>
+      <user-password>dfdadfcbdffddfe0dffcdfe4dff9df9fdfccdff3dfc8dfc8</user-password>
+      <driver-properties>
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+        <property name="tinyInt1isBit" value="false" />
+      </driver-properties>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
